@@ -6,8 +6,7 @@ echo "buon pomeriggio";
 echo "arrivederci";
 
 echo "buongiorno";
-echo "buon pomeriggio Daniele";
+echo "buon pomeriggio Lorenzo Daniele";
 echo "arrivederci";
-
 
 echo "salve ragazzi";
