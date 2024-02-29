@@ -1,3 +1,5 @@
 <?php
 
-echo 'ciao';
+echo "buongiorno";
+echo "buon pomeriggio";
+echo "arrivederci";
